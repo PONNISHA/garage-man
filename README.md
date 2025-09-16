@@ -1,1 +1,1 @@
-# lease-management
+# Garage management
